@@ -1,1 +1,1 @@
-# gcnmlp, datasets for analysis
+# gcnmlp algorithm
